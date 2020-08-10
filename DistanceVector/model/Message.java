@@ -1,4 +1,4 @@
-package prakash.ram.model;
+package model;
 
 import java.io.Serializable;
 import java.util.ArrayList;
